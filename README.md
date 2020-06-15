@@ -10,3 +10,7 @@ type this in your terminal
 
 download the conkyrc file to home directory as .conkyrc
 > wget -O /home/pi/.conkyrc https://github.com/CyberSpaceHackers/CyberSpaceHackers_Modified_Conky.git
+
+
+
+busybox byobu ccnet cmake coreutils cowsay gotty hfsutils iconv icu-devtools links mtools rcs util-linux 
